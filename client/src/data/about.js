@@ -3,7 +3,7 @@ export const aboutData = {
     role: 'Full-Stack Web Developer',
     openToWork: true,
     // TODO: put your photo at client/public/me.jpg, then use '/me.jpg'
-    photo: '../../public/me.png',
+    photo: '/me.jpg',
     bio: [
       'I am a student at Build Bright University, learning to build complete web applications, from the interface people see to the API and database behind it.',
       'I am looking for my first full-stack web developer role where I can contribute, learn from experienced teammates and keep growing.',
