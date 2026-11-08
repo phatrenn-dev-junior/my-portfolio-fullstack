@@ -1,0 +1,32 @@
+export const projects = [
+  {
+    id: 1,
+    title: 'Full-Stack Portfolio',
+    description: 'A responsive portfolio with a contact form that saves messages to PostgreSQL, plus a protected admin page.',
+    image: 'https://placehold.co/800x500/0f172a/38bdf8?text=Portfolio',
+    tags: ['React', 'Tailwind CSS', 'Node.js', 'PostgreSQL'],
+    demo: '#',
+    code: '#',
+    featured: true,
+  },
+  {
+    id: 2,
+    title: 'Project Two',
+    description: 'A short description of what this project does and who it is for.',
+    image: 'https://placehold.co/800x500/0f172a/a78bfa?text=Project+2',
+    tags: ['JavaScript', 'API'],
+    demo: '#',
+    code: '#',
+    featured: false,
+  },
+  {
+    id: 3,
+    title: 'Project Three',
+    description: 'A short description of what this project does and who it is for.',
+    image: 'https://placehold.co/800x500/0f172a/34d399?text=Project+3',
+    tags: ['React', 'Node.js'],
+    demo: '#',
+    code: '#',
+    featured: false,
+  },
+]
